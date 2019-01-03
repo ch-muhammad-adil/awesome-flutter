@@ -176,6 +176,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Image Cropper](https://github.com/hnvn/flutter_image_cropper) [170⭐] - Crop your images support ratio, rotation, zoom by [HungHD](https://github.com/hnvn).
 - [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) [276⭐] - Show images from the internet and keep them in the cache directory by.
 - [Multi Image Picker](https://github.com/Sh1d0w/multi_image_picker) [109⭐] - Display multi image picker by [Radoslav Vitanov](https://github.com/Sh1d0w).
+- [Circular Profile Avatar](https://github.com/ch-muhammad-adil/flutter-circular_profile_avatar) [6⭐] - Display profile picture with border,overlay and initials by [Muhammad Adil](https://github.com/ch-muhammad-adil)
 
 ### Map
 
